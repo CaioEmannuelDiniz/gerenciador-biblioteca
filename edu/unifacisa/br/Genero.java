@@ -1,0 +1,5 @@
+package edu.unifacisa.br;
+
+public enum Genero {
+    FICCAO, NAO_FICCAO, TERROR, ROMANCE, AVENTURA, FANTASIA, LITERATURA_INFANTIL, POESIA, DRAMA
+}
